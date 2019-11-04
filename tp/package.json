@@ -1,0 +1,15 @@
+{
+  "name": "simplestore",
+  "version": "1.0.0",
+  "description": "Joms Sawtooth TP storing and retriving data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "villarrealtovar@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^5.0.1",
+    "sawtooth-sdk": "^1.0.5"
+  }
+}
