@@ -13,8 +13,8 @@ function  sendRequest(payload) {
  const transactionHeaderBytes = protobuf.TransactionHeader.encode({
    familyName: 'joms-store',
    familyVersion: '1.0',
-   inputs: ['917479'],
-   outputs: ['917479'],
+   inputs: ['d7cda5'],
+   outputs: ['d7cda5'],
    signerPublicKey: signer.getPublicKey().asHex(),
    batcherPublicKey: signer.getPublicKey().asHex(),
    dependencies: [],
@@ -48,6 +48,9 @@ function  sendRequest(payload) {
  const batchListBytes = protobuf.BatchList.encode({
    batches: [batch]
  }).finish()
+
+
+ 
 
  request.post({
    url: 'http://localhost:8008/batches',
