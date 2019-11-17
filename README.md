@@ -43,7 +43,7 @@ cada transacción con la ayuda de Request HTTP.
 ## Instalar
 
 ### Pre-requisitos
-PAsegurese que tiene instalado todos los siguientes pre-requisitos en su máquina de desarrollo:
+Asegurese que tiene instalado todos los siguientes pre-requisitos en su máquina de desarrollo:
 
 * Git - [Descargar & Instalar Git](https://git-scm.com/downloads).
 * Node.js `v10.17.0`- [Descargar & Instalar Node.js](https://nodejs.org/en/download/) y el manejador de paquestes npm.
