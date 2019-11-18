@@ -8,7 +8,7 @@ El equipo está conformado por:
 
 - José Andrés Villarreal Tovar
 - Miguel Bolivar
-- Sebastián López
+- Sebastián Ospina
 - Oscar Soto
 
 Todos los integrantes han trabajado arduamente en la documentación y desarrollo del proyecto.
